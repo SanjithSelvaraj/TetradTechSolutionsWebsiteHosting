@@ -33,7 +33,7 @@
 .thank-you-gif {
     height: 100px;
     width: 89px;
-    background-image: url("public/images/section-background-images/thank-you-gif-sd.gif");
+    background-image: url("../public/images/section-background-images/thank-you-gif-sd.gif");
     background-position: center;
     background-size: cover;
     align-self: center;
@@ -104,7 +104,7 @@
     .thank-you-gif {
         height: 196px;
         width: 174px;
-        background-image: url("public/images/section-background-images/thank-you-gif-ld.gif");
+        background-image: url("../public/images/section-background-images/thank-you-gif-ld.gif");
     }
     .thank-you-container p {
         font-size: 18px;

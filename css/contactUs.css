@@ -16,7 +16,7 @@
 .hero-section {
     background-image:
         linear-gradient(112deg, rgba(56, 56, 56, 0.25) 9.02%, rgba(153, 153, 153, 0.25) 91.82%),
-        url("public/images/background-images/contact-us-page-sd-bg.png");
+        url("../public/images/background-images/contact-us-page-sd-bg.png");
     padding-top: 221px;
 }
 
@@ -63,7 +63,7 @@
     height: 287px;
     width: 100%;
     max-width: 287px;
-    background-image: url("public/images/background-images/contact-us-page-form-sd-bg.png");
+    background-image: url("../public/images/background-images/contact-us-page-form-sd-bg.png");
     border-radius: 10px;
     background-repeat: no-repeat;
 }
@@ -148,7 +148,7 @@ footer {
     .hero-section {
         background-image:
             linear-gradient(112deg, rgba(56, 56, 56, 0.25) 9.02%, rgba(153, 153, 153, 0.25) 91.82%),
-            url("public/images/background-images/contact-us-page-md-bg.png");
+            url("../public/images/background-images/contact-us-page-md-bg.png");
         padding-top: 0px;
     }
 
@@ -204,7 +204,7 @@ footer {
     .hero-section {
         background-image:
             linear-gradient(112deg, rgba(56, 56, 56, 0.25) 9.02%, rgba(153, 153, 153, 0.25) 91.82%),
-            url("public/images/background-images/contact-us-page-ld-bg.png");
+            url("../public/images/background-images/contact-us-page-ld-bg.png");
         padding-top: 0px;
     }
 

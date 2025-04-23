@@ -14,7 +14,7 @@
 }
 
 .hero-section {
-    background-image: url("public/images/background-images/service-page-sd-bg.png");
+    background-image: url("../public/images/background-images/service-page-sd-bg.png");
     padding-top: 221px;
 }
 
@@ -60,7 +60,7 @@
     height: 287px;
     width: 100%;
     max-width: 287px;
-    background-image: url("public/images/background-images/service-page-form-sd-bg.png");
+    background-image: url("../public/images/background-images/service-page-form-sd-bg.png");
     border-radius: 10px;
     background-repeat: no-repeat;
 }
