@@ -14,7 +14,7 @@
 }
 
 .hero-section {
-    background-image: url("../public/images/background-images/service-page-sd-bg.png");
+    background-image: url("public/images/background-images/service-page-sd-bg.png");
     padding-top: 221px;
 }
 
@@ -60,7 +60,7 @@
     height: 287px;
     width: 100%;
     max-width: 287px;
-    background-image: url("../public/images/background-images/service-page-form-sd-bg.png");
+    background-image: url("public/images/background-images/service-page-form-sd-bg.png");
     border-radius: 10px;
     background-repeat: no-repeat;
 }
@@ -142,7 +142,7 @@ footer {
 @media (min-width: 768px) {
 
     .hero-section {
-        background-image: url(../public/images/background-images/service-page-md-bg.png);
+        background-image: url(public/images/background-images/service-page-md-bg.png);
         padding-top: 0px;
     }
 
@@ -169,7 +169,7 @@ footer {
     .form-img-container {
         height: 352px;
         max-width: 272px;
-        background-image: url(../public/images/background-images/service-page-form-md-bg.png);
+        background-image: url(public/images/background-images/service-page-form-md-bg.png);
         border-radius: 10px;
         background-repeat: no-repeat;
     }
@@ -212,7 +212,7 @@ footer {
     .form-img-container {
         height: 447px;
         max-width: 395px;
-        background-image: url(../public/images/background-images/service-page-form-ld-bg.png);
+        background-image: url(public/images/background-images/service-page-form-ld-bg.png);
     }
 
     form {

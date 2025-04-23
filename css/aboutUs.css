@@ -14,7 +14,7 @@
 }
 
 .hero-section {
-    background-image: url("../public/images/background-images/about-page-sd-bg.png");
+    background-image: url("public/images/background-images/about-page-sd-bg.png");
 }
 
 .hero-section-content {
@@ -85,7 +85,7 @@
 .ellipse-1 {
     width: 140px;
     height: 140px;
-    background-image: url("../public/images/section-background-images/about-us-ellipse-1-sd.png");
+    background-image: url("public/images/section-background-images/about-us-ellipse-1-sd.png");
 }
 
 .ellipse-2 {
@@ -93,14 +93,14 @@
     margin-left: 10px;
     width: 185px;
     height: 185px;
-    background-image: url("../public/images/section-background-images/about-us-ellipse-2-sd.png");
+    background-image: url("public/images/section-background-images/about-us-ellipse-2-sd.png");
 }
 
 .ellipse-3 {
     margin-top: -20px;
     width: 150px;
     height: 150px;
-    background-image: url("../public/images/section-background-images/about-us-ellipse-3-sd.png");
+    background-image: url("public/images/section-background-images/about-us-ellipse-3-sd.png");
 }
 
 .ellipse-4 {
@@ -108,7 +108,7 @@
     margin-left: 18px;
     width: 150px;
     height: 150px;
-    background-image: url("../public/images/section-background-images/about-us-ellipse-4-sd.png");
+    background-image: url("public/images/section-background-images/about-us-ellipse-4-sd.png");
 }
 
 .solutions-section-head {
@@ -116,7 +116,7 @@
     flex-direction: column;
     gap: 16px;
     padding: 20px 20px 113px 20px;
-    background-image: url("../public/images/section-background-images/about-us-vision-sd-bg.png");
+    background-image: url("public/images/section-background-images/about-us-vision-sd-bg.png");
     background-size: cover;
     background-position: center;
 }
@@ -196,7 +196,7 @@
     .hero-section {
         background-image:
             linear-gradient(112deg, rgba(56, 56, 56, 0.25) 9.02%, rgba(153, 153, 153, 0.25) 91.82%),
-            url("../public/images/background-images/about-page-md-bg.png");
+            url("public/images/background-images/about-page-md-bg.png");
     }
 
     .hero-section-content {
@@ -241,7 +241,7 @@
     }
 
     .solutions-section-head {
-        background-image: url("../public/images/section-background-images/about-us-vision-md-bg.png");
+        background-image: url("public/images/section-background-images/about-us-vision-md-bg.png");
         padding: 24px 65px 117px 32px;
     }
 
@@ -269,7 +269,7 @@
     .hero-section {
         background-image:
             linear-gradient(112deg, rgba(56, 56, 56, 0.25) 9.02%, rgba(153, 153, 153, 0.25) 91.82%),
-            url("../public/images/background-images/about-page-ld-bg.png");
+            url("public/images/background-images/about-page-ld-bg.png");
     }
 
     .hero-section-content {
@@ -334,7 +334,7 @@
 
     .solutions-section-head {
         padding: 40px 40px 185px 40px;
-        background-image: url("../public/images/section-background-images/about-us-vision-ld-bg.png");
+        background-image: url("public/images/section-background-images/about-us-vision-ld-bg.png");
 
     }
 
